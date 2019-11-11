@@ -1,2 +1,2 @@
 # JdbcTemplate1
-Ejemplo básico de accedo a base de datos embebida H2 usando JdbcTemplate y RowMapper
+Ejemplo básico de acceso a base de datos embebida H2 usando JdbcTemplate y RowMapper
